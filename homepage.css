@@ -607,10 +607,10 @@ select {
 }
 
 .container-adress {
-  padding: 90px;
-  margin: 40px;
+  padding: 90px 20px;
   color: rgb(255, 255, 255);
   margin: 0 auto;
+  
 }
 .container-adress h4 {
   color: white;
@@ -622,7 +622,7 @@ select {
 
 .google-maps {
     width: 400px;
-  height: 450px;
+    height: 400px;
  
 }
 
